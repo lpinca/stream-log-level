@@ -50,9 +50,7 @@ Supported options:
 Name   | Description                       | Type                   | Default value
 -------|-----------------------------------|------------------------|-----------------
 level  | Specify the log level             | `String`               | `info`
--------|-----------------------------------|------------------------|-----------------
 prefix | Set a prefix for all log messages | `String` or `Function` | `undefined`
--------|-----------------------------------|------------------------|-----------------
 stream | The stream to write to            | `Stream`               | `process.stdout`
 
 
