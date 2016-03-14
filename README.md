@@ -1,8 +1,8 @@
 # stream-log-level
 
-[![Version npm][npm-strean-log-level-badge]][npm-strean-log-level]
-[![Build Status][travis-strean-log-level-badge]][travis-strean-log-level]
-[![Coverage Status][coverage-strean-log-level-badge]][coverage-strean-log-level]
+[![Version npm][npm-stream-log-level-badge]][npm-stream-log-level]
+[![Build Status][travis-stream-log-level-badge]][travis-stream-log-level]
+[![Coverage Status][coverage-stream-log-level-badge]][coverage-stream-log-level]
 
 Simple and lightweight logger that writes to a stream.
 
@@ -58,10 +58,10 @@ stream | The stream to write to            | `Stream`               | `process.s
 
 [MIT](LICENSE)
 
-[npm-strean-log-level-badge]: https://img.shields.io/npm/v/strean-log-level.svg
-[npm-strean-log-level]: https://www.npmjs.com/package/strean-log-level
-[travis-strean-log-level-badge]: https://img.shields.io/travis/lpinca/strean-log-level/master.svg
-[travis-strean-log-level]: https://travis-ci.org/lpinca/strean-log-level
-[coverage-strean-log-level-badge]: https://img.shields.io/coveralls/lpinca/strean-log-level/master.svg
-[coverage-strean-log-level]: https://coveralls.io/r/lpinca/strean-log-level?branch=master
+[npm-stream-log-level-badge]: https://img.shields.io/npm/v/stream-log-level.svg
+[npm-stream-log-level]: https://www.npmjs.com/package/stream-log-level
+[travis-stream-log-level-badge]: https://img.shields.io/travis/lpinca/stream-log-level/master.svg
+[travis-stream-log-level]: https://travis-ci.org/lpinca/stream-log-level
+[coverage-stream-log-level-badge]: https://img.shields.io/coveralls/lpinca/stream-log-level/master.svg
+[coverage-stream-log-level]: https://coveralls.io/r/lpinca/stream-log-level?branch=master
 [console-log-level]: https://github.com/watson/console-log-level
