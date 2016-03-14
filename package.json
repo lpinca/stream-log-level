@@ -1,6 +1,6 @@
 {
   "name": "stream-log-level",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple and lightweight logger that writes to a stream",
   "homepage": "https://github.com/lpinca/stream-log-level",
   "bugs": "https://github.com/lpinca/stream-log-level/issues",
