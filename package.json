@@ -1,0 +1,30 @@
+{
+  "name": "stream-log-level",
+  "version": "0.0.0",
+  "description": "Simple and lightweight logger that writes to a stream",
+  "homepage": "https://github.com/lpinca/stream-log-level",
+  "bugs": "https://github.com/lpinca/stream-log-level/issues",
+  "repository": "lpinca/stream-log-level",
+  "author": "Luigi Pinca",
+  "main": "index.js",
+  "scripts": {
+    "test-travis": "istanbul cover tape --report lcovonly -- test.js",
+    "coverage": "istanbul cover tape -- test.js",
+    "test": "tape test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "logging",
+    "logger",
+    "stream",
+    "log"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "0.4.x",
+    "pre-commit": "1.1.x",
+    "tape": "4.5.x"
+  }
+}
