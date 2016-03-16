@@ -6,7 +6,7 @@
 
 Simple and lightweight logger that writes to a stream.
 
-This module is like[`console-log-level`][console-log-level] but instead of
+This module is like [`console-log-level`][console-log-level] but instead of
 using the `console` object it uses a given stream.
 
 Log levels supported: trace, debug, info, warn, error and fatal.
