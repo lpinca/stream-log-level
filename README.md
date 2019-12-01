@@ -61,7 +61,7 @@ stream | The stream to write to            | `Stream`               | `process.s
 [npm-stream-log-level-badge]: https://img.shields.io/npm/v/stream-log-level.svg
 [npm-stream-log-level]: https://www.npmjs.com/package/stream-log-level
 [travis-stream-log-level-badge]: https://img.shields.io/travis/lpinca/stream-log-level/master.svg
-[travis-stream-log-level]: https://travis-ci.org/lpinca/stream-log-level
+[travis-stream-log-level]: https://travis-ci.com/lpinca/stream-log-level
 [coverage-stream-log-level-badge]: https://img.shields.io/coveralls/lpinca/stream-log-level/master.svg
 [coverage-stream-log-level]: https://coveralls.io/r/lpinca/stream-log-level?branch=master
 [console-log-level]: https://github.com/watson/console-log-level
