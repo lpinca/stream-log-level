@@ -23,7 +23,7 @@
   "devDependencies": {
     "coveralls": "3.0.x",
     "nyc": "14.1.x",
-    "pre-commit": "1.1.x",
+    "pre-commit": "1.2.x",
     "tape": "4.5.x"
   }
 }
