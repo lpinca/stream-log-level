@@ -8,9 +8,7 @@
   "author": "Luigi Pinca",
   "main": "index.js",
   "scripts": {
-    "test-travis": "istanbul cover tape --report lcovonly -- test.js",
-    "coverage": "istanbul cover tape -- test.js",
-    "test": "tape test.js"
+    "test": "nyc --reporter=html --reporter=text tape test.js"
   },
   "files": [
     "index.js"
@@ -23,7 +21,8 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "istanbul": "0.4.x",
+    "coveralls": "3.0.x",
+    "nyc": "14.1.x",
     "pre-commit": "1.1.x",
     "tape": "4.5.x"
   }
