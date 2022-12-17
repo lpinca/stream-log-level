@@ -62,7 +62,7 @@ Supported options:
 [npm-stream-log-level-badge]: https://img.shields.io/npm/v/stream-log-level.svg
 [npm-stream-log-level]: https://www.npmjs.com/package/stream-log-level
 [ci-stream-log-level-badge]:
-  https://img.shields.io/github/workflow/status/lpinca/stream-log-level/CI/master?label=CI
+  https://img.shields.io/github/actions/workflow/status/lpinca/stream-log-level/ci.yml?branch=master&label=CI
 [ci-stream-log-level]:
   https://github.com/lpinca/stream-log-level/actions?query=workflow%3ACI+branch%3Amaster
 [coverage-stream-log-level-badge]:
